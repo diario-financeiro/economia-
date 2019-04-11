@@ -1,0 +1,69 @@
+# Logs
+toras
+* .log
+npm-debug.log *
+fio-debug.log *
+fio-erro.log *
+
+# Dados de tempo de execução
+pids
+* .pid
+* .seed
+* .pid.lock
+
+# Directory for libs instrumentadas geradas pelo jscoverage / JSCover
+lib-cov
+
+# Diretório de cobertura usado por ferramentas como istambul
+cobertura
+
+cobertura de teste # nyc
+.nyc_output
+
+# Armazenamento intermediário do Grunt (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunhido
+
+# Diretório de dependências do Bower (https://bower.io/)
+bower_components
+
+# node-waf configuration
+.lock-wscript
+
+# Complementos binários compilados (https://nodejs.org/api/addons.html)
+construir / soltar
+
+# Diretórios de dependência
+node_modules /
+jspm_packages /
+
+# Arquivos de declaração do TypeScript v1
+typings /
+
+# Diretório de cache npm opcional
+.npm
+
+# Cache eslint opcional
+.eslintcache
+
+# Histórico REPL opcional
+.node_repl_history
+
+# Saída do 'npm pack'
+* .tgz
+
+# Arquivo de integridade do fio
+integridade dos fios
+
+arquivo de variáveis ​​de ambiente # dotenv
+.env
+
+saída de compilação # next.js
+.Próximo
+
+# credenciais
+credenciais / * .json
+
+content.json
+
+conteúdo / * .png
+.DS_Store
